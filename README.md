@@ -17,3 +17,4 @@ Preciso ir no mercado:
 
 - Arroz
 - Feijão
+- Batata
